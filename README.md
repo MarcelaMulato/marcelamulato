@@ -152,6 +152,6 @@ hoping to become a better version of myself as well as making my own version of 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcelaMulato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&title_color=ac49fc&bg_color=0c081c" height="150" alt="languages graph" />
 
 ### 💌My socials:
-<a href="www.linkedin.com/in/marcela-moraes-mulato-772319310" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/marcela-moraes-mulato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.credly.com/users/marcela-mulato"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" target="_blank"></a>
 <a href="mailto:marcela.mulato7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
